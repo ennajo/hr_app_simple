@@ -1,1 +1,1 @@
-# hr_app_simple
+simple_hr_app
